@@ -32,4 +32,9 @@ A Python-based Society Maintenance Management System that helps manage residents
 - MySQL  
 - mysql-connector  
 - CSV  
-- hashlib  
+- hashlib
+
+##  Author
+
+Made by: Aanya Mishra
+GitHub: https://github.com/aanyamishra9503
