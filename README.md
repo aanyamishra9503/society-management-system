@@ -26,7 +26,7 @@ A Python-based Society Maintenance Management System that helps manage residents
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python  
 - MySQL  
@@ -37,4 +37,3 @@ A Python-based Society Maintenance Management System that helps manage residents
 ##  Author
 
 Made by: Aanya Mishra
-GitHub: https://github.com/aanyamishra9503
